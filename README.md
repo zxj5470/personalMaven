@@ -2,7 +2,7 @@
 :joy: :joy:
 
 
-##Gradle  
+## Gradle  
 ```gradle
 repositories {
 //......mavenCentral()
@@ -16,7 +16,7 @@ dependencies {
 }
 ```
 
-##Maven repositories  
+## Maven repositories  
 ```xml
 <repositories>  
     <repository>  
